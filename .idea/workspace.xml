@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599ad64-08bc-4469-9b6c-da0424aa7f66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excepciones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumeroNegativoExcepcion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PruebaExcepcion.java" afterDir="false" />
-    </list>
+    <list default="true" id="3599ad64-08bc-4469-9b6c-da0424aa7f66" name="Changes" comment="Excepcion de negativo&#10;Prueba de la excepcion&#10;Metodo caracterEn&#10;Probar metodo en el valor 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +32,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Excepciones" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PruebaExcepcion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PruebaExcepcion" />
       <module name="Excepciones" />
@@ -52,6 +49,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PruebaExcepcion" />
       </list>
     </recent_temporary>
@@ -65,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692752255158</updated>
     </task>
+    <task id="LOCAL-00001" summary="Excepcion de negativo&#10;Prueba de la excepcion&#10;Metodo caracterEn&#10;Probar metodo en el valor 7">
+      <created>1692759044842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692759044842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +83,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Excepcion de negativo&#10;Prueba de la excepcion&#10;Metodo caracterEn&#10;Probar metodo en el valor 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excepcion de negativo&#10;Prueba de la excepcion&#10;Metodo caracterEn&#10;Probar metodo en el valor 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

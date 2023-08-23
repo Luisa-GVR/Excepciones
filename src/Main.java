@@ -19,6 +19,7 @@ public class Main {
 
         try {
             char valor = caracterEn(lectTeclado,7);
+            System.out.println(valor);
         } catch (Exception e) {
             System.out.println("Has intentado recuperar una posición de la cadena de caracteres que no existe");
         }
